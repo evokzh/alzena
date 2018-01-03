@@ -1,1 +1,1 @@
-this are logo, feel free to use!
+feel free to use!
