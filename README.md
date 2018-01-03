@@ -1,3 +1,6 @@
+
+  ![logo](/logo/4_Grayscale_logo_on_transparent_234x69.png)
+
 # Welcome to alzena
 
 ### What is alzena?
@@ -7,7 +10,5 @@ The difference from other distro is :
 1. Is easy to learn
 2. Have multiple function than exist on windows/mac (like Siri,etc)
 3. Have prebuild latest WINE client, so no need to install
-
-
 
 
