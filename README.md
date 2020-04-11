@@ -1,4 +1,4 @@
-![logo](https://github.com/evokzh/alzena/blob/master/logo/logo_transp_500x200.png =250x50)
+![logo](https://github.com/evokzh/alzena/blob/master/logo/logo_transp_500x200.png)
 
 # Welcome to alzena
 
