@@ -1,4 +1,4 @@
-![logo](/logo/4_Grayscale_logo_on_transparent_234x69.png)
+![logo](/logo/logo_transp_500x200.png =250x50)
 
 # Welcome to alzena
 
